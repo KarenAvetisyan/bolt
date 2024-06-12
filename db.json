@@ -1,0 +1,54 @@
+{
+  "products":[
+      {
+        "id": 1,
+        "title": "Post 1",
+        "imgUrl": "https://media.timeout.com/images/105560680/750/422/image.webp",
+        "category": ["Игрушка", "Мишка"],
+        "price": 1200,
+        "old_price": 30,
+        "discount": 15,
+        "order_number": "we12D#asd112"
+      },
+      {
+        "id": 2,
+        "title": "Post 2",
+        "imgUrl": "https://media.timeout.com/images/105405548/750/422/image.webp",
+        "category": ["Мартышка"],
+        "price": 1200,
+        "old_price": 30,
+        "discount": 15,
+        "order_number": "we12D#asd113"
+      },
+      {
+        "id": 3,
+        "title": "Post 3",
+        "imgUrl": "https://media.timeout.com/images/105521273/750/422/image.webp",
+        "category": ["Мишка", "Мартышка"],
+        "price": 1200,
+        "old_price": 30,
+        "discount": 15,
+        "order_number": "we12D#asd114"
+      },
+      {
+        "id": 4,
+        "title": "Post 4",
+        "imgUrl": "https://media.timeout.com/images/105521273/750/422/image.webp",
+        "category": ["Подарок"],
+        "price": 1200,
+        "old_price": 30,
+        "discount": 15,
+        "order_number": "we12D#asd115"
+      },
+      {
+        "id": 5,
+        "title": "Post 5",
+        "imgUrl": "https://media.timeout.com/images/105405548/750/422/image.webp",
+        "category": ["ПоДень Рождения Гришидарок", "Игрушка"],
+        "price": 1200,
+        "old_price": 30,
+        "discount": 15,
+        "order_number": "we12D#asd116"
+      }
+    ]
+}
